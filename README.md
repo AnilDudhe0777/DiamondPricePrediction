@@ -54,6 +54,7 @@ We used various regression algorithms to train our model on the dataset. The mod
 ## Results
 
 Our best-performing model achieved an R-squared score of XX%, indicating its ability to accurately predict diamond prices. The most influential features for price prediction were found to be [list_top_features_here].
+![Result](templates/Result.png)
 
 ## Conclusion
 
