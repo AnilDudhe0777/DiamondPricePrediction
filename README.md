@@ -1,6 +1,6 @@
 # Diamond Price Prediction
 
-![Diamond](templates/diamond.jpg)
+![Diamond](templates/zjr.jpg)
 
 This project focuses on predicting the price of Diamonds based on various attributes. The goal is to build a machine learning model that accurately estimates the price of a diamond given its features, which can be valuable for both the diamond industry and potential buyers.
 
